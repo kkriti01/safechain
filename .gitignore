@@ -1,0 +1,21 @@
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+# Environments
+.venv
+venv/
+ENV/
+
+### macOS template
+# General
+*.DS_Store
+.AppleDouble
+.LSOverride
+.idea/
+.idea/*.xml
+.pytest_cache/
+.env
+avatars/
